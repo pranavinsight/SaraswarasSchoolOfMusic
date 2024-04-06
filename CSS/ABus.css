@@ -63,7 +63,7 @@ padding: 0rem, 5rem;
 
 .centered-box {
   width: 15rem; 
-  height: 36rem; 
+  height: 37rem; 
   background-color: #fff; 
   color: #000;
 font-size: 1rem; 
@@ -80,6 +80,7 @@ background: linear-gradient(45deg, #c0c0c0, #f0f0f0);
   border: 1px solid #808080;
 box-shadow: 10px 10px 5px 0px 
  word-wrap: break-word;
+   margin-bottom: 3rem;
 }
 
 .centered-box h1 p{
